@@ -22,5 +22,5 @@ elsif user_choice == 1 && ai_choice == 2
 elsif user_choice == 2 && ai_choice == 0
   puts "Congratulation! You win!"
 else
-  puts "LGTM, but a computer is win :("
+  puts "LGTM, but a computer is winner :("
 end
