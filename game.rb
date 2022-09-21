@@ -11,7 +11,7 @@ puts "Choose one of the variants: 0 - Stone, 1 - Scissors, 2 - Paper"
 user_choice = gets.to_i
 
 puts "The computer choice is: " + choices[ai_choice]
-puts 'Вы выбрали: ' + choices[user_choice]
+puts "Your choice is: " + choices[user_choice]
 
 if user_choice == ai_choice
   puts "No winner in this game, try again"

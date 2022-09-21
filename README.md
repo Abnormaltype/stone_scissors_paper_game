@@ -2,4 +2,4 @@
 simple implementation of stone-scissors-paper-game
 
 ### Game-play
-![Example](img.png)
+![Example](img_1.png)
